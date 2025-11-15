@@ -1,5 +1,4 @@
 # budget-tracker
-My JavaFX Budget Tracker
 For my project, I developed a Personal Finance Manager application using Java. This project allowed me to practically apply several important Java skills that I have learned. I used Object-Oriented Programming (OOP) concepts such as classes, objects, encapsulation, and methods to structure the program clearly. I created separate classes such as Transaction and FinanceManager to keep the logic organized. The Transaction class stores details like date, description, type, category, and amount, whereas the FinanceManager class handles the logic for adding, viewing, and summarizing transactions.
 
 I also applied my knowledge of file handling in Java to save and load user data. By using classes like FileWriter, BufferedReader, and PrintWriter, I ensured that all transactions entered by the user are stored permanently in a text file. This allowed the program to maintain data even after closing and reopening, which made the application more practical and realistic.
